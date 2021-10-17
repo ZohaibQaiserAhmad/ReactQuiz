@@ -2,6 +2,12 @@
  React Quiz Submission for DBNc 
 
 
+# Question #1
+https://github.com/ZohaibQaiserAhmad/Question1
+
+#Question #5
+https://github.com/ZohaibQaiserAhmad/Question5
+
 Thank you for applying to our React JS Developer position!
 
 Please submit all answers by email to dbncjobs@gmail.com along with your name and the best phone number to reach you at. The best way to submit your work is by creating a public github repo and sharing the link to the repo with us. There are five questions in this quiz, please answer all of them.
